@@ -1,0 +1,15 @@
+h6{
+    color:rgba(255, 0, 255, 0.494);
+    text-align: center;
+    font-size: x-large;
+    background-color: gray;
+    margin: 15px;
+    margin-top: 0;
+    /* border-radius: 10px; */
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom: 5px solid rgba(255, 0, 255, 0.337);
+    border-right: 5px solid fuchsia;
+    border-left: 5px solid fuchsia;
+
+}
