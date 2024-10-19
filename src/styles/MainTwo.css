@@ -1,0 +1,17 @@
+.cont{
+    text-align: center;
+    display: inline-block;
+}
+.cont img{
+    border-radius: 15px;
+}
+
+.container{
+    color:#660466;
+    border-radius: 5px;
+    display: inline-block;   
+    text-align: center;
+    margin: 50px;
+    margin-left: 7%;
+   
+}

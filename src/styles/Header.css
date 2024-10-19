@@ -1,15 +1,16 @@
 h6{
-    color:rgba(255, 0, 255, 0.494);
+    color:#4303437e;
     text-align: center;
     font-size: x-large;
-    background-color: gray;
     margin: 15px;
     margin-top: 0;
-    /* border-radius: 10px; */
-    border-bottom-left-radius: 10px;
-    border-bottom-right-radius: 10px;
-    border-bottom: 5px solid rgba(255, 0, 255, 0.337);
-    border-right: 5px solid fuchsia;
-    border-left: 5px solid fuchsia;
+}
 
+header{
+    background-image: url('../images/beyaz.jpg');
+    background-size: cover; 
+    background-position: center; 
+    background-repeat: no-repeat; 
+    padding: 20px; 
+    border-radius: 20px;
 }

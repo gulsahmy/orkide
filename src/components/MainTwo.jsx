@@ -1,14 +1,19 @@
 import Buton from "./buton";
+import "../styles/MainTwo.css"
+
 
 
 const MainTwo = ({name, img, width="350px", height= "350px"}) => {
   return (
-    <div>
-      <div>
-        <h1>{name}</h1>
-      </div>
-      <img src={img} alt={name} style={{ width: width, height: height }} />
-      <Buton />
+    <div className="container">
+      <div className="cont">
+        
+        <h1>{name}</h1>    
+        <img src={img} alt={name} style={{ width: width, height: height }} />    
+          
+        <Buton />   
+
+      </div>      
     </div>
   )
 }

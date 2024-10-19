@@ -4,9 +4,9 @@ import React from 'react'
 
 const Buton = () => {
   return (
-    <div className='wrapper' >
-        <button className='btn-blue'>Info</button>
-        <button className='btn-red'>Back</button>
+    <div>
+        <button className='btn-info'>Info</button>
+        <button className='btn-back'>Back</button>
     </div>
   )
 }
