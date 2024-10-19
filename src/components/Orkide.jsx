@@ -1,12 +1,21 @@
-import Mavi from "../images/mavi.jpg"
 
-const Orkide = () => {
+import Name from "./Name"
+
+
+const Orkide = ({name, img, color}) => {
   return (
     <div>
-        <img src={Mavi} alt="" />
-        <p>Lorem ipsum dolor sit amet.
+      <Name name={name} />  
 
-        </p>
+        <img 
+        src={img} 
+        alt="orkide-img"
+        height="150px"
+        width="150px"
+        />
+
+        <p>Color:{color} </p>  
+
         <hr />
     </div>
   )
