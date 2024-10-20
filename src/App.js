@@ -4,7 +4,7 @@ import Header from "./components/Header";
 import Main from "./components/Main";
 import Orkide from "./components/Orkide";
 import MainTwo from "./components/MainTwo";
-import data from "./data"
+import data from "./helper/data"
 
 function App() {
   return (

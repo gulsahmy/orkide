@@ -1,6 +1,6 @@
-import LaeliaImg from "./images/Laelia-anceps.jpg";
-import CattleyaImg from "./images/Cattleya.jpg";
-import PsychopsisImg from "./images/Psychopsis.jpg";
+import LaeliaImg from "../images/Laelia-anceps.jpg";
+import CattleyaImg from "../images/Cattleya.jpg";
+import PsychopsisImg from "../images/Psychopsis.jpg";
 
 const data = [
     {

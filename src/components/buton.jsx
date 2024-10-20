@@ -1,12 +1,10 @@
 
 
-import React from 'react'
-
 const Buton = () => {
   return (
     <div>
-        <button className='btn-info'>Info</button>
-        <button className='btn-back'>Back</button>
+        <button className='btn btn-info'>Info</button>
+        <button className='btn btn-back'>Back</button>
     </div>
   )
 }
